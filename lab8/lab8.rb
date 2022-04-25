@@ -48,7 +48,7 @@ puts u.name + " " + u.surname + " " + u.patronicName
 u.name = "K"
 u.surname = "D"
 u.patronicName = "G"
-puts u.name + " " + u.surname + " " + u.patronicName
+puts u
 
 =begin
 3. Створіть клас Group, конструктор якого може приймати довільну кількість об'єктів класу
